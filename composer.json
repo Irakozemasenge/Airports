@@ -1,0 +1,33 @@
+{
+    "name": "irakozemasenge/airports",
+    "description": "A JSON collection of ~29k entries with basic information about nearly every airport and landing strip in the world",
+    "type": "library",
+    "keywords": [
+        "airports",
+        "aviation",
+        "icao",
+        "iata",
+        "airport-data",
+        "coordinates",
+        "timezone",
+        "geolocation",
+        "aviation-data",
+        "json"
+    ],
+    "require": {
+        "php" : ">=7.4"
+    },
+    "homepage": "https://github.com/Irakozemasenge/Airports",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ir Masenge",
+            "email": "irmasenge@gmail.com",
+            "homepage": "https://github.com/Irakozemasenge"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Irakozemasenge/Airports/issues",
+        "source": "https://github.com/Irakozemasenge/Airports"
+    }
+}
